@@ -1,0 +1,24 @@
+{
+    "menu": {
+      "title": "What would you like to do? (Press Esc to exit)",
+      "options": [
+        {
+          "id": 1,
+          "description": "Loan Calculation"
+        },
+        {
+          "id": 2,
+          "description": "Gas Cost Calculation"
+        },
+        {
+          "id": 3,
+          "description": "Repair and Maintenance Cost Calculation"
+        },
+        {
+          "id": 4,
+          "description": "Compare overall costs of two Vehicles and get recommendation"
+        }
+      ]
+    }
+  }
+  
